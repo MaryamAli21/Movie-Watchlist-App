@@ -1,0 +1,8 @@
+/* src/App.css */
+.watched {
+  color: green;
+}
+
+.not-watched {
+  color: red;
+}
